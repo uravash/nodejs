@@ -1,14 +1,16 @@
 {
-  "name": "express",
+  "name": "nodeexp",
   "version": "1.0.0",
-  "description": "express",
-  "main": "app.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "webiwork",
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "hbs": "^4.1.2"
+    "express": "^4.17.1",
+    "hbs": "^4.1.2",
+    "requests": "^0.3.0"
   }
 }
